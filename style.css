@@ -20,7 +20,7 @@ body{
   margin-right: auto;
   margin-left: auto;
   margin-top: 200px;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
 }
 
 .main-box h1{
@@ -50,4 +50,11 @@ body{
   text-align: left;
   padding: 15px 10px;
   font-size: 16px;
+  cursor: pointer;
+}
+
+#faq img{
+  rotate: 270deg;
+  width: 12px;
+  margin-right: 5px;
 }
