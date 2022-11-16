@@ -3,3 +3,46 @@
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
+
+body{
+  min-height: 700px;
+  background: linear-gradient(180deg, #141625 0%, #1E244F 100%);
+  align-items: center;
+  text-align: center;
+}
+
+.main-box{
+  background: #FFFFFF;
+  box-shadow: 6px 8px 9px rgba(0, 0, 0, 0.35);
+  border-radius: 8px;
+  width: 60%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+  padding-bottom: 20px;
+}
+
+.main-box h1{
+  padding: 50px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height */
+  letter-spacing: 0.098em;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.faq p{
+  box-sizing: border-box;
+  background: #F2F2F2;
+  border: 1px solid #B8B8B8;
+  border-radius: 8px;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 15px 10px;
+}
