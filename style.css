@@ -38,7 +38,7 @@ body{
   margin-top: -20px;
 }
 
-#faq h3{
+#pergunta{
   box-sizing: border-box;
   background: #F2F2F2;
   border: 1px solid #B8B8B8;
@@ -59,14 +59,19 @@ body{
   margin-right: 5px;
 }
 
-#faq p{
+#p1,
+#p2,
+#p3,
+#p4{
   box-sizing: border-box;
   background: #F2F2F2;
   width: 70%;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 10px;
+  margin-top: -10px;
   text-align: left;
+  border-radius: 8px;
   padding: 15px 10px;
   font-size: 16px;
   display: none;
