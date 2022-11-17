@@ -76,3 +76,9 @@ body{
   font-size: 16px;
   display: none;
 }
+
+@media screen and (max-width: 768px)  {
+  .main-box{
+    width: 100%;
+  }
+}
