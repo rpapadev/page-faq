@@ -58,3 +58,16 @@ body{
   width: 12px;
   margin-right: 5px;
 }
+
+#faq p{
+  box-sizing: border-box;
+  background: #F2F2F2;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 15px 10px;
+  font-size: 16px;
+  display: none;
+}
